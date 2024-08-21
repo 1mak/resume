@@ -79,7 +79,7 @@ Vuex, Pinia
 REST, GraphQL, SOAP, Websockets, cURL
 
 ### Version Control and Collaboration
-Git, GitHub, GitLab, Bitbucket
+Git, GitHub, GitLab, Bitbucket, ESlint, Stylelint, Prettier
 
 ### Development Tools
 VS Code, JetBrains IDEs (WebStorm, PhpStorm), VMWare/Docker
