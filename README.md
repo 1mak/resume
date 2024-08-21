@@ -11,7 +11,7 @@ Date of Birth: 19th of January 1982, Dresden / Germany
 
 ## Summary
 
-As a seasoned Senior Web Developer with extensive experience since my early university years, I specialize in building, architecting, and designing:
+As a seasoned Senior Web Developer with extensive experience (18 years) since my early university years, I specialize in building, architecting, and designing:
 - Web-based management systems
 - User-centric web-based applications
 - E-Commerce solutions
