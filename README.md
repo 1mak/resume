@@ -1,9 +1,6 @@
 # Torsten Schmidt
 ## Senior Web Developer UI/UX
 
-Email: torsten.max.schmidt@gmail.com  
-Phone: 0411 431 061
-
 Work Eligibility: Permanent Residency  
 Driving Licence: Full Clean Australian Driving Licence  
 Current Location: Brisbane  
